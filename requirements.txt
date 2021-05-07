@@ -1,0 +1,5 @@
+pyserial>=3.0
+numpy
+mdsplus
+pyqt5
+future

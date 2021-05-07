@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/green-led-on.png</file>
+        <file>icons/green-led-off.png</file>
+        <file>icons/led-red-on.png</file>
+        <file>icons/Differ.png</file>
+        <file>icons/cRio.png</file>
+        <file>icons/Phantom-v7.png</file>
+        <file>icons/Ophir_LaserStar.png</file>
+    </qresource>
+</RCC>
